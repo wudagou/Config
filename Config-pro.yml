@@ -1,1 +1,2 @@
-version=2222
+config:
+   info:version=22
