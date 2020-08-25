@@ -1,2 +1,3 @@
-config:
-   info:version=22
+spring:
+  application:
+    name: morning-service-order
